@@ -14,6 +14,7 @@ Representa os membros da equipe da empresa. Para cada colaborador, é necessári
 - **Nome**
 - **Email**
 - **Cargo**
+- **Cpf**
 
 ### Cargo
 Define o papel de um colaborador na empresa. Cada cargo possui:
